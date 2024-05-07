@@ -1,3 +1,11 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+Friend!+👋;I+Am+Mordecai+Mathenge...;And+Am+a+Web+Designer;a+Web+Developer;a+Software+Engineer;And+a+Freelancer;Welcome+to+my+hubspace!;&center=true&size=20">
+  </a>
+</h1>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on front-end development using HTML, CSS, and JavaScript, creating responsive and interactive interfaces.<br>👯 I’m looking to collaborate on frameworks such as React.js and jQuery, enhancing web applications' efficiency and interactivity. <br>🤝 I’m looking for help with back-end development in Python, PHP, and Ruby, ensuring robust server-side functionality and seamless database management with MySQL.<br>🌱 I’m currently learning development using ASP.NET framework, python and Node.js.<br>⚡ Fun fact - In my programming adventures, I dabbled in game development using Unity and C#. Creating interactive worlds and experimenting with game mechanics became a passion project that allowed me to merge creativity with technical expertise.
 
