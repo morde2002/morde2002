@@ -7,6 +7,7 @@
 
 
 # 💫 About Me:
+<h2><center>Student software engineer at ALX Holberton | On my journey to become a full stack developer</center></h2>
 🔭 I’m currently working on front-end development using HTML, CSS, and JavaScript, creating responsive and interactive interfaces.<br>👯 I’m looking to collaborate on frameworks such as React.js and jQuery, enhancing web applications' efficiency and interactivity. <br>🤝 I’m looking for help with back-end development in Python, PHP, and Ruby, ensuring robust server-side functionality and seamless database management with MySQL.
 
 
