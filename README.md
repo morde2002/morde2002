@@ -1,15 +1,16 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=61DAFB&background=00000000&width=700&lines=👋+Hello,+I%27m+Mordecai+Mathenge.;🌟+Front-End+Developer+%7C+React.js,+Next.js+%26+React+Native.;🎨+UI%2FUX+Enthusiast+%26+Dashboard+Designer.;💻+Node.js+%26+MongoDB+Advocate.;🚀+Always+Learning+|+Always+Building."
-    alt="Typing SVG"
-  />
-  <br/>
-  <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="100"
     alt="Waving Hand"
   />
+  <br/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=61DAFB&background=00000000&width=700&lines=👋+Hello,+I%27m+Mordecai+Mathenge.;🌟+Front-End+Developer+%7C+React.js,+Next.js+%26+React+Native.;🎨+UI%2FUX+Designer+%26+User-Centered+Advocate.;💻+Node.js+%26+Next.js+Enthusiast.;🚀+Always+Learning+|+Always+Evolving."
+    alt="Typing SVG"
+  />
 </h1>
+
 
 # 💫 About Me:
 🔭 I’m currently building dynamic dashboards and responsive interfaces using **React.js**, **Next.js**, and **React Native**, with a strong emphasis on performance and accessibility.  <br>👯 I’m eager to collaborate on **UI/UX design systems**, micro-interaction animations (Framer Motion), and Figma-to-code workflows to elevate project aesthetics and usability.  <br>🤝 I enjoy partnering with back-end teams working in **Node.js**, **Express**, and **MongoDB** to deliver full-stack JavaScript solutions that are scalable and maintainable.  <br>🌱 I’m constantly exploring the latest web technologies—Tailwind CSS, GraphQL, and Serverless architectures—to keep my skill set sharp and deliver cutting-edge digital experiences.  <br>📫 Feel free to reach out if you’d like to discuss a project or share ideas about innovative front-end patterns!
