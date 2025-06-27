@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently building dynamic dashboards and responsive interfaces using **React.js**, **Next.js**, and **React Native**, with a strong emphasis on performance and accessibility.  <br>👯 I’m eager to collaborate on **UI/UX design systems**, micro-interaction animations (Framer Motion), and Figma-to-code workflows to elevate project aesthetics and usability.  <br>🤝 I enjoy partnering with back-end teams working in **Node.js**, **Express**, and **MongoDB** to deliver full-stack JavaScript solutions that are scalable and maintainable.  <br>🌱 I’m constantly exploring the latest web technologies—Tailwind CSS, GraphQL, and Serverless architectures—to keep my skill set sharp and deliver cutting-edge digital experiences.  <br>📫 Feel free to reach out if you’d like to discuss a project or share ideas about innovative front-end patterns!
+🔭 I’m currently building responsive interfaces and mobile apps using React.js, Next.js, and React Native, with a strong focus on performance, accessibility, and user experience.  <br>👯 I’m eager to collaborate on **UI/UX design systems**, micro-interaction animations (Framer Motion), and Figma-to-code workflows to elevate project aesthetics and usability.  <br>🤝 I enjoy partnering with back-end teams working in **Node.js**, **Express**, and **MongoDB** to deliver full-stack JavaScript solutions that are scalable and maintainable.  <br>🌱 I’m constantly exploring the latest web technologies—Tailwind CSS, GraphQL, and Serverless architectures—to keep my skill set sharp and deliver cutting-edge digital experiences.  <br>📫 Feel free to reach out if you’d like to discuss a project or share ideas about innovative front-end patterns!
 
 
 ## 🌐 Socials:
