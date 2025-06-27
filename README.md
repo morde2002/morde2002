@@ -6,10 +6,11 @@
   />
   <br/>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=61DAFB&background=00000000&width=700&lines=👋+Hello,+I%27m+Mordecai+Mathenge.;🌟+Front-End+Developer+%7C+React.js,+Next.js+React+Native.;🎨+UI%2FUX+Designer+%26+User-Centered+Advocate.;💻+Node.js+%26+Next.js+Enthusiast.;🚀+Always+Learning+|+Always+Evolving."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=61DAFB&background=00000000&width=700&lines=👋+Hello,+I%27m+Mordecai+Mathenge.;🌟+Front-End+Developer+%7C+React.js,+Next.js,+React+Native.;📱+Mobile+App+Creator+%28Android+%2F+iOS%29+with+React+Native.;🎨+UI%2FUX+Designer+%26+User-Centered+Advocate.;💻+Node.js+%26+API+Integration+Explorer.;🚀+Always+Learning+|+Always+Evolving."
     alt="Typing SVG"
   />
 </h1>
+
 
 
 # 💫 About Me:
